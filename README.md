@@ -5,9 +5,8 @@ i used version 0.1.1 . cause it is teh simplest for learning.
 cause this is so important, so i write the istruction by English, and put it on github. 
 
 1.first you must make sure you can run python with vscode.
-    如果运行python没效果,那是因为vscode里面python插件太新了.一般是python3.6
-    找个两年前的python插件即可.https://zhuanlan.zhihu.com/p/543432988
-    launch.json里面设置    "justMyCode": false .
+    
+    launch.json/    "justMyCode": false .
 
     if you python can not run, just because you use python early version.
     so the python plug must be match, but defalutly vscode install the latest version. you can change zhe plug vesrion mannually.
