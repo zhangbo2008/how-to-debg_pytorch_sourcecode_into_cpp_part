@@ -8,7 +8,7 @@
             "name": "(gdb) Attach",
             "type": "cppdbg",
             "request": "attach",
-            "program": "/usr/bin/python",
+            "program": "/usr/bin/python",   //need check python or python3
             "MIMode": "gdb",
             "setupCommands": [
                 {
