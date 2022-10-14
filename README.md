@@ -5,9 +5,7 @@ i used version 0.1.1 . cause it is teh simplest for learning.
 cause this is so important, so i write the istruction by English, and put it on github. 
 
 1.first you must make sure you can run python with vscode.
-    
     launch.json/    "justMyCode": false .
-
     if you python can not run, just because you use python early version.
     so the python plug must be match, but defalutly vscode install the latest version. you can change zhe plug vesrion mannually.
 2. because with WSL or other linux system . we may have python2 and python3.
