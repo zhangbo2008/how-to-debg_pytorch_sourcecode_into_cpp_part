@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stack": "cpp",
+        "vector": "cpp"
+    },
+    "python.pythonPath": "/usr/bin/python"
+}
